@@ -6,7 +6,7 @@ version_date: "2025-10-30"
 language: "pt-BR"
 doc_type: "Constitutional Law"
 license: "public-domain"
-collected_at: "2025-10-30T14:07:18.239Z"
+collected_at: "2025-10-30T14:09:38.724Z"
 capture_mode: "lexflow-extension"
 ---
 
